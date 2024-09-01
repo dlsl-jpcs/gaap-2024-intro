@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Spotify';
+    font-weight: bold;
+    src: 
+        local('Spotify'),
+        url('public/fonts/Spotify-Bold.otf') format('opentype');
+}
+
+* {
+    font-family: 'Spotify', sans-serif;
+}
+
